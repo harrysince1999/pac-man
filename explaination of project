@@ -1,0 +1,13 @@
+"Sure, I'd be happy to talk about my project. I recently worked on a Pacman Game using JavaScript and HTML. The project involved creating a 2D game environment where players control Pacman, a character that navigates through a maze, collects pellets, avoids ghosts, and strives to win the game.
+
+I organized the game logic into different classes, including Player for Pacman's movement and animation, Ghost for the ghosts' behavior, Boundary for obstacles and walls, and separate classes for Pellet and PowerUp to represent collectible items. The game utilizes keyboard input to control Pacman's movement and collision detection to handle interactions between game elements.
+
+One interesting feature I implemented was the ability for Pacman to rotate its mouth while moving, creating a dynamic visual effect. The game also includes win and lose conditions — Pacman wins by collecting all pellets, and it loses if a ghost catches it.
+
+To build the game environment, I used a 2D map that defines the layout of boundaries, pellets, power-ups, and more. This map allowed me to generate the game world programmatically and position elements accordingly.
+
+Throughout the development process, I focused on creating smooth animations, responsive controls, and an engaging gameplay experience. I also paid attention to optimizing the code for efficiency and clarity.
+
+Overall, this project was a great opportunity for me to apply my skills in JavaScript, HTML, and game development concepts, while also exploring creative ways to capture the essence of the classic Pacman game."
+
+Remember, the key is to be enthusiastic about your project and highlight the technical aspects you're proud of, while also explaining how the project challenged you and allowed you to grow as a developer.
